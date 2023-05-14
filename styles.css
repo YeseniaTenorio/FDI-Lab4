@@ -1,0 +1,82 @@
+body {
+    background-color: #FED525
+}
+
+#contenedor {
+    width: 970px;
+    
+
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align:center
+    
+    
+}#header h1 {
+    font-family: 'Kaushan Script', cursive;
+    padding: 20px;
+}
+
+#header ul li{
+    display: inline;
+    margin: 0 3px;
+
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #70B4E3;
+    padding: 18px;
+    color: #ffffff 
+    
+
+}
+
+
+
+#header ul li a:hover {
+    background-color: #007CC2;
+    text-decoration: underline;
+    
+}
+
+#CasaSimpson img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Escuela img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Kwik-E-Mart img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#PlantaNuclear img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#CasaBurns img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Juego img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+
+}
+
